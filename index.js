@@ -2,7 +2,7 @@
 function happyHolidays(string){
   return `Happy holidays!`;
 }
-function happyHolidaysTo(nsme){
+function happyHolidaysTo(name){
   return `Happy holidays, ${name}!`;
 }
 function happyHolidayTo(holiday, name){
